@@ -20,7 +20,7 @@ The overview page provides a snapshot of Australia's economy using five key indi
 
 It also includes time-series views of unemployment and employment to provide context around recent changes.
 
-![Australia Now](screenshots/01-australia-now.png)
+![Australia Now](Screenshots/01-australia-now.jpg)
 
 ### 2. Prices & Cost of Living
 
@@ -36,7 +36,7 @@ It includes:
 
 The page is intended to provide a broader view of changes in prices and cost-of-living-related indicators rather than relying on CPI alone. It also includes a drillthrough option on Latest CPI inflation graph.
 
-![Prices & Cost of Living](screenshots/02-prices-cost-of-living.png)
+![Prices & Cost of Living](Screenshots/02-prices-cost-of-living.jpg)
 
 ### 3. Labour Market
 
@@ -44,7 +44,7 @@ The labour-market page focuses on employment and unemployment trends.
 
 An interactive slicer allows user to examine the labour-market data across different groups while retaining the same report layout.
 
-![Labour Market](screenshots/03-labour-market.png)
+![Labour Market](Screenshots/03-labour-market.jpg)
 
 ### 4. Interactive Economic Metric
 
@@ -56,7 +56,7 @@ I use a Field Parameter to allow the user to switch the main chart between three
 
 User can also select the period of time, ranging from the beginning of 2016 to now.
 
-![Interactive Economic Metric](screenshots/04-interactive-economic-metric.png)
+![Interactive Economic Metric](Screenshots/04-interactive-economic-metric.jpg)
 
 ### 5. CPI Category Detail
 
@@ -70,7 +70,7 @@ The CPI Category Detail page is accessed using Power BI drillthrough from Price 
 
 The CPI data is structured across multiple category levels, allowing the report to move from the overall CPI measure into more detailed categories.
 
-![CPI Deep Dive](screenshots/05-cpi-deep-dive.png)
+![CPI Deep Dive](Screenshots/05-cpi-deep-dive.jpg)
 
 ## Key Features
 
